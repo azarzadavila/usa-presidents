@@ -43,16 +43,16 @@ function Carousel() {
       <SideCard position="previous" />
       <div className="flex flex-col justify-center">
         <PresidentCard president={PRESIDENTS[currentIndex]} />
-        <div className="flex flex-row justify-evenly">
+        <div className="flex flex-row justify-center">
           <button
             onClick={goToPrevious}
-            className="text-3xl font-bold p-2 text-white"
+            className="text-3xl font-bold p-2 text-white mr-5"
           >
             {"<"}
           </button>
           <button
             onClick={goToNext}
-            className="text-3xl font-bold p-2 text-white"
+            className="text-3xl font-bold p-2 text-white ml-5"
           >
             {">"}
           </button>
