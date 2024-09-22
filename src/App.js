@@ -1,13 +1,14 @@
 import React from "react";
 import Carousel from "components/Carousel.jsx";
+import MainHeader from "components/MainHeader";
 
 function App() {
   return (
-    <div className="App">
-      <h1 className="text-3xl font-bold underline text-center my-4">
-        Presidents of the United States
-      </h1>
-      <Carousel />
+    <div className="flex flex-col min-h-screen bg-stone-900	">
+      <MainHeader />
+      <main className="flex-grow flex flex-col justify-center">
+        <Carousel />
+      </main>
     </div>
   );
 }

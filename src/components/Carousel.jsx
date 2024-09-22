@@ -22,39 +22,44 @@ function Carousel() {
   const nextIndex =
     currentIndex === PRESIDENTS.length - 1 ? 0 : currentIndex + 1;
 
+  function SideCard({ position }) {
+    const index = position === "previous" ? previousIndex : nextIndex;
+    const skewClass = position === "previous" ? "-skew-y-12" : "skew-y-12";
+    return (
+      <div className={`flex flex-col justify-center`}>
+        <div className={`flex flex-col justify-center ${skewClass}`}>
+          <img
+            src={PRESIDENTS[index].image}
+            alt={PRESIDENTS[index].name}
+            className="w-48 h-48 object-cover rounded-lg shadow-lg"
+          />
+        </div>
+      </div>
+    );
+  }
+
   return (
-    <div className="relative flex items-center justify-center min-h-screen bg-black">
-      <button
-        onClick={goToPrevious}
-        className="absolute left-0 text-3xl font-bold p-2 text-white z-10"
-      >
-        {"<"}
-      </button>
-      <button
-        onClick={goToNext}
-        className="absolute right-0 text-3xl font-bold p-2 text-white z-10"
-      >
-        {">"}
-      </button>
-
-      <div className={`-skew-y-12`}>
-        <img
-          src={PRESIDENTS[previousIndex].image}
-          alt={PRESIDENTS[previousIndex].name}
-          className="w-48 h-48 object-cover rounded-lg shadow-lg"
-        />
+    <div className="flex flex-row justify-evenly justify-items-center grow">
+      <SideCard position="previous" />
+      <div className="flex flex-col justify-center">
+        <PresidentCard president={PRESIDENTS[currentIndex]} />
+        <div className="flex flex-row justify-evenly">
+          <button
+            onClick={goToPrevious}
+            className="text-3xl font-bold p-2 text-white"
+          >
+            {"<"}
+          </button>
+          <button
+            onClick={goToNext}
+            className="text-3xl font-bold p-2 text-white"
+          >
+            {">"}
+          </button>
+        </div>
       </div>
 
-      {/* Current President */}
-      <PresidentCard president={PRESIDENTS[currentIndex]} />
-
-      <div className={`skew-y-12`}>
-        <img
-          src={PRESIDENTS[nextIndex].image}
-          alt={PRESIDENTS[nextIndex].name}
-          className="w-48 h-48 object-cover rounded-lg shadow-lg"
-        />
-      </div>
+      <SideCard position="next" />
     </div>
   );
 }
