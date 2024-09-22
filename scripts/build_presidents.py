@@ -19,7 +19,7 @@ def download_image(url, filename):
 
 
 output = []
-import_lines = []
+import_lines = set()
 
 with open("scripts/presidents_data.txt", "r") as file:
     president = {}
@@ -35,7 +35,7 @@ with open("scripts/presidents_data.txt", "r") as file:
         elif step == 2:
             president["name"] = line
             filename = line.lower().replace(" ", "_").replace(".", "")
-            import_lines.append(filename)
+            import_lines.add(filename)
             president["image"] = filename + "_img"
             download_image(url_temp, os.path.join(image_folder, filename + ".jpg"))
         elif step == 3:
@@ -45,16 +45,15 @@ with open("scripts/presidents_data.txt", "r") as file:
                 None if len(dates) == 4 else f"{dates[3]}-{dates[4]}-{dates[5]}"
             )
         elif step == 4:
+            president["party"] = line
             output.append(president)
             president = {}
         step = (step + 1) % 5
 
 
 tmp_json = json.dumps(output, indent=4)
-tmp_json = re.sub(r'("\d\d\d\d-\d\d-\d\d")', r"Date.parse(\1)", tmp_json)
+tmp_json = re.sub(r'("\d\d\d\d-\d\d-\d\d")', r"new Date(\1)", tmp_json)
 tmp_json = re.sub(r'image": "(\w*)"', r'image": \1', tmp_json)
-
-print(tmp_json)
 
 with open(os.path.join("src", "presidents.js"), "w") as file:
     for line in import_lines:
