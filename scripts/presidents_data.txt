@@ -1,0 +1,230 @@
+1
+//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/300px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg
+George Washington
+1789-04-30-1797-03-04
+Unaffiliated
+2
+//upload.wikimedia.org/wikipedia/commons/thumb/0/07/John_Adams_A18236.jpg/300px-John_Adams_A18236.jpg
+John Adams
+1797-03-04-1801-03-04
+Federalist
+3
+//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg/300px-Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg
+Thomas Jefferson
+1801-03-04-1809-03-04
+Democratic-Republican
+4
+//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/300px-James_Madison.jpg
+James Madison
+1809-03-04-1817-03-04
+Democratic-Republican
+5
+//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/James_Monroe_White_House_portrait_1819.jpg/300px-James_Monroe_White_House_portrait_1819.jpg
+James Monroe
+1817-03-04-1825-03-04
+Democratic-Republican
+6
+//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/JQA_Photo_Crop.jpg/300px-JQA_Photo_Crop.jpg
+John Quincy Adams
+1825-03-04-1829-03-04
+Democratic-Republican/National Republican
+7
+//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Andrew_jackson_head.jpg/300px-Andrew_jackson_head.jpg
+Andrew Jackson
+1829-03-04-1837-03-04
+Democratic
+8
+//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Martin_Van_Buren.jpg/300px-Martin_Van_Buren.jpg
+Martin Van Buren
+1837-03-04-1841-03-04
+Democratic
+9
+//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/William_Henry_Harrison_crop.jpg/301px-William_Henry_Harrison_crop.jpg
+William Henry Harrison
+1841-03-04-1841-04-04
+Whig
+10
+//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tyler_Daguerreotype_%28restoration%29_%28cropped%29.jpg/300px-Tyler_Daguerreotype_%28restoration%29_%28cropped%29.jpg
+John Tyler
+1841-04-04-1845-03-04
+Whig/Unaffiliated
+11
+//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Polk_crop.jpg/300px-Polk_crop.jpg
+James K. Polk
+1845-03-04-1849-03-04
+Democratic
+12
+//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Zachary_Taylor_restored_and_cropped.jpg/300px-Zachary_Taylor_restored_and_cropped.jpg
+Zachary Taylor
+1849-03-04-1850-07-09
+Whig
+13
+//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Fillmore.jpg/300px-Fillmore.jpg
+Millard Fillmore
+1850-07-09-1853-03-04
+Whig
+14
+//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Mathew_Brady_-_Franklin_Pierce_-_alternate_crop_%28cropped%29%28b%29%283%29.jpg/300px-Mathew_Brady_-_Franklin_Pierce_-_alternate_crop_%28cropped%29%28b%29%283%29.jpg
+Franklin Pierce
+1853-03-04-1857-03-04
+Democratic
+15
+//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/James_Buchanan.jpg/300px-James_Buchanan.jpg
+James Buchanan
+1857-03-04-1861-03-04
+Democratic
+16
+//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/300px-Abraham_Lincoln_O-77_matte_collodion_print.jpg
+Abraham Lincoln
+1861-03-04-1865-04-15
+Republican/National Union
+17
+//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg/300px-Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg
+Andrew Johnson
+1865-04-15-1869-03-04
+National Union/Democratic
+18
+//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ulysses_S_Grant_by_Brady_c1870-restored.jpg/300px-Ulysses_S_Grant_by_Brady_c1870-restored.jpg
+Ulysses S. Grant
+1869-03-04-1877-03-04
+Republican
+19
+//upload.wikimedia.org/wikipedia/commons/thumb/5/50/President_Rutherford_Hayes_1870_-_1880_Restored.jpg/300px-President_Rutherford_Hayes_1870_-_1880_Restored.jpg
+Rutherford B. Hayes
+1877-03-04-1881-03-04
+Republican
+20
+//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg/300px-James_Abram_Garfield%2C_photo_portrait_seated.jpg
+James A. Garfield
+1881-03-04-1881-09-19
+Republican
+21
+//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Chester_A._Arthur_by_Abraham_Bogardus_%28cropped%29.jpg/300px-Chester_A._Arthur_by_Abraham_Bogardus_%28cropped%29.jpg
+Chester A. Arthur
+1881-09-19-1885-03-04
+Republican
+22
+//upload.wikimedia.org/wikipedia/commons/thumb/3/36/StephenGroverCleveland.jpg/300px-StephenGroverCleveland.jpg
+Grover Cleveland
+1885-03-04-1889-03-04
+Democratic
+23
+//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896.jpg/300px-Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896.jpg
+Benjamin Harrison
+1889-03-04-1893-03-04
+Republican
+24
+//upload.wikimedia.org/wikipedia/commons/thumb/3/36/StephenGroverCleveland.jpg/300px-StephenGroverCleveland.jpg
+Grover Cleveland
+1893-03-04-1897-03-04
+Democratic
+25
+//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mckinley.jpg/300px-Mckinley.jpg
+William McKinley
+1897-03-04-1901-09-14
+Republican
+26
+//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Theodore_Roosevelt_by_the_Pach_Bros.jpg/300px-Theodore_Roosevelt_by_the_Pach_Bros.jpg
+Theodore Roosevelt
+1901-09-14-1909-03-04
+Republican
+27
+//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cabinet_card_of_William_Howard_Taft_by_Pach_Brothers_-_Cropped_to_image.jpg/300px-Cabinet_card_of_William_Howard_Taft_by_Pach_Brothers_-_Cropped_to_image.jpg
+William Howard Taft
+1909-03-04-1913-03-04
+Republican
+28
+//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/President_Woodrow_Wilson_by_Harris_%26_Ewing%2C_1914-crop_%282%29.jpg/299px-President_Woodrow_Wilson_by_Harris_%26_Ewing%2C_1914-crop_%282%29.jpg
+Woodrow Wilson
+1913-03-04-1921-03-04
+Democratic
+29
+//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Warren_G_Harding-Harris_%26_Ewing.jpg/300px-Warren_G_Harding-Harris_%26_Ewing.jpg
+Warren G. Harding
+1921-03-04-1923-08-02-0000" style="white-space:nowrap">August 2, 1923</span><sup id="cite_ref-diedintraterm_28-12" class="reference"><a href="#cite_note-diedintraterm-28"><span class="cite-bracket">[</span>e<span class="cite-bracket">]</span></a></sup>
+Republican
+30
+//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Calvin_Coolidge_cph.3g10777_%28cropped%29.jpg/300px-Calvin_Coolidge_cph.3g10777_%28cropped%29.jpg
+Calvin Coolidge
+1923-08-02-1929-03-04
+Republican
+31
+//upload.wikimedia.org/wikipedia/commons/thumb/5/57/President_Hoover_portrait.jpg/300px-President_Hoover_portrait.jpg
+Herbert Hoover
+1929-03-04-1933-03-04
+Republican
+32
+//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/FDR-1944-Campaign-Portrait_%28cropped%29.jpg/300px-FDR-1944-Campaign-Portrait_%28cropped%29.jpg
+Franklin D. Roosevelt
+1933-03-04-1945-04-12
+Democratic
+33
+//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg/300px-TRUMAN_58-766-06_%28cropped%29.jpg
+Harry S. Truman
+1945-04-12-1953-01-20
+Democratic
+34
+//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/300px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg
+Dwight D. Eisenhower
+1953-01-20-1961-01-20
+Republican
+35
+//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/300px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg
+John F. Kennedy
+1961-01-20-1963-11-22
+Democratic
+36
+//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/37_Lyndon_Johnson_3x4.jpg/300px-37_Lyndon_Johnson_3x4.jpg
+Lyndon B. Johnson
+1963-11-22-1969-01-20
+Democratic
+37
+//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/300px-Richard_Nixon_presidential_portrait_%281%29.jpg
+Richard Nixon
+1969-01-20-1974-08-09
+Republican
+38
+//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gerald_Ford_presidential_portrait_%28cropped_3%29.jpg/300px-Gerald_Ford_presidential_portrait_%28cropped_3%29.jpg
+Gerald Ford
+1974-08-09-1977-01-20
+Republican
+39
+//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/JimmyCarterPortrait2.jpg/300px-JimmyCarterPortrait2.jpg
+Jimmy Carter
+1977-01-20-1981-01-20
+Democratic
+40
+//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/300px-Official_Portrait_of_President_Reagan_1981.jpg
+Ronald Reagan
+1981-01-20-1989-01-20
+Republican
+41
+//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/George_H._W._Bush_presidential_portrait_%28cropped%29.jpg/300px-George_H._W._Bush_presidential_portrait_%28cropped%29.jpg
+George H. W. Bush
+1989-01-20-1993-01-20
+Republican
+42
+//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/300px-Bill_Clinton.jpg
+Bill Clinton
+1993-01-20-2001-01-20
+Democratic
+43
+//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/300px-George-W-Bush.jpeg
+George W. Bush
+2001-01-20-2009-01-20
+Republican
+44
+//upload.wikimedia.org/wikipedia/commons/thumb/9/97/President_Barack_Obama_%28cropped%29_4.jpg/300px-President_Barack_Obama_%28cropped%29_4.jpg
+Barack Obama
+2009-01-20-2017-01-20
+Democratic
+45
+//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/300px-Donald_Trump_official_portrait.jpg
+Donald Trump
+2017-01-20-2021-01-20
+Republican
+46
+//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/300px-Joe_Biden_presidential_portrait.jpg
+Joe Biden
+2021-01-20-now
+Democratic
